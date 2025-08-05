@@ -1,5 +1,3 @@
-# NLW Agents
-
 API para gerenciamento de salas, desenvolvida com Fastify, Drizzle ORM e TypeScript.
 
 ## Principais Tecnologias
